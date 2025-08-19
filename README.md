@@ -1,5 +1,3 @@
-# Portfolio
-Hi
 # 👋 Hi, I'm Anam Sana
 
 **Postgraduate in Computer Science** from the University of Management and Technology, with a strong passion for crafting clear, comprehensive, and user-friendly technical content.
@@ -25,8 +23,4 @@ Hi
 
 ## 📫 How to Reach Me
 
-*Feel free to connect, collaborate, or discuss documentation best practices!*
-
----
-
-> “Turning complexity into clarity, one document at a time.”
+*Feel free to connect, collaborate, or discuss documentation best practices! 
